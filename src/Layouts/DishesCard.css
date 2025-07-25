@@ -1,0 +1,12 @@
+
+.contain-1-1{
+    color:#F4511F;
+}
+
+.contain-1-2{
+    width: 400px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

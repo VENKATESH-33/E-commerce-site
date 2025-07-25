@@ -1,0 +1,10 @@
+.contain{
+    /* background-image: url("../assets/hotel-bg(1).jpg"); */
+    background-repeat: no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../assets/hotel-bg(1).jpg');
+    background-size:cover;
+    object-fit: contain;
+}
+.contain-1{
+    color:#f0f0f0;
+}
