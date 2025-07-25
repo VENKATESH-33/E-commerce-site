@@ -5,7 +5,7 @@ import Tastyimg2 from "../assets/tasty-img-2.jpg";
 import Tastyimg3 from "../assets/tasty-img-3.jpg";
 import Spicyimg1 from "../assets/spicy-img-1.jpg";
 import Spicyimg2 from "../assets/spicy-img-2.jpg";
-import Spicyimg3 from "../assets/spicy-img-3.jpg";
+import Spicyimg3 from "../assets/spicy-img-3.JPG";
 import Deliciousimg1 from "../assets/Delicious-img-1.jpg";
 import Deliciousimg2 from "../assets/Delicious-img-2.jpg";
 import Deliciousimg3 from "../assets/Delicious-img-3.jpg";
